@@ -111,7 +111,7 @@ function Services() {
                             <span>-</span>
                             <input id="maxPrice" type="number" value="1000" className="border rounded px-2 py-1 w-20" />
                         </div>
-                        <button id="applyPrice" className="mt-3 w-full bg-blue-600 text-white py-4 rounded-">Apply Filter</button>
+                        <button id="applyPrice" className="mt-3 w-full bg-blue-600 text-white py-2 rounded">Apply Filter</button>
                     </div>
 
 
